@@ -7,7 +7,6 @@ class CldCustUploadLgRestApi extends Component {
     // Set your cloud name and unsigned upload preset here:
     var YOUR_CLOUD_NAME = "drewpager";
     var YOUR_UNSIGNED_UPLOAD_PRESET = "platos-peach";
-    var API_KEY = "249778568612973";
 
     var POST_URL =
       "https://api.cloudinary.com/v1_1/" + YOUR_CLOUD_NAME + "/auto/upload" + "&api_key=" + API_KEY
