@@ -2,4 +2,9 @@
 
 Uploads for Plato's Peach
 
-## Testing
+## Notes
+
+- Add .env with following:
+  - YOUR_CLOUD_NAME
+  - YOUR_UNSIGNED_UPLOAD_PRESET
+  - API_KEY
